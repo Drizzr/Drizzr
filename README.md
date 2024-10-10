@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub! 👋
 
-Hi, I'm Samuel, a passionate developer and data enthusiast. I enjoy exploring new technologies, building projects, and contributing to the open-source community. My expertise spans across machine learning, AI, and software development, and I’m always eager to collaborate on exciting projects.
+Hi, I'm Samuel, a passionate developer and data enthusiast. I enjoy exploring new technologies, building projects. My expertise spans across machine learning, AI, and software development, and I’m always eager to collaborate on exciting projects.
 
 ### 🔧 Technologies I Work With:
 - **Languages**: Python, JavaScript
