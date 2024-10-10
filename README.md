@@ -7,7 +7,7 @@ Hi, I'm Samuel, a passionate developer and data enthusiast. I enjoy exploring ne
 ### 🔧 Technologies I Work With:
 - **Languages**: Python, JavaScript
 - **Frameworks**: TensorFlow, PyTorch, React, Flask
-- **Cloud**: Firebase/Supabase
+- **Cloud**: Firebase/Supabase, Paperspace
 
 ### 📚 Ongoing Projects:
 - **NanoNet**: A simple machine learning framework, implementing training and sampling processes for simple MLPs.
