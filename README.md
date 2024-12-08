@@ -21,6 +21,6 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 Looking forward to connecting with you! 😊
 
-![Drizzr's Stats](https://github-readme-stats.vercel.app/api?username=Drizzr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+
 ![Drizzr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drizzr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
